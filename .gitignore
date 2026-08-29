@@ -1,3 +1,10 @@
+# Executáveis
+bin/
+*.out
+*.exe
+
+# Objetos de compilação
+*.o
 # Prerequisites
 *.d
 
@@ -39,3 +46,15 @@
 
 # debug information files
 *.dwo
+
+# tp1
+tp1/experimentos.py
+tp1/run_analise.sh
+
+# tp2
+tp2/analise.sh
+tp2/compilar_resultados.py
+
+# tp3
+tp3/analise.sh
+tp3/experiment.sh
